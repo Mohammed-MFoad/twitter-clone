@@ -1,0 +1,57 @@
+.main .icon{
+   margin-right: 70%;
+   margin-left: 30%;
+   margin-top: 10px;
+}
+.main h1{
+    font-size: 40px; 
+   margin-left: 30%;
+   margin-top: 10px;
+   font-family: Verdana;
+   font-weight: 700;
+ }
+
+.main .mainForm input{
+    padding: 20px;
+    width: 490px;
+    margin-top: 10px;
+    border: none;
+    border-bottom: 1px solid rgb(29, 161, 242);
+    outline-style: none;
+    padding-bottom: 30px;
+    margin-left: 30%;
+    width: 360px;
+}
+
+.main .btn-login {
+    margin-top: 15px;
+    padding: 15px;
+    border: none;
+    border-radius: 30px;
+    outline-style: none;
+    font-size: 14px;
+    background: #00a7ff;
+    color: white;
+    margin-left: 30%;
+    opacity: 0.9;
+    width: 400px;
+    cursor: pointer;
+  }
+  .main .btn-login:hover {
+    background: #0093ff;
+    transition: 0.1s;
+  }
+  
+  .main .paras .forget{
+    margin-left: 35%;
+      margin-top: 10px;
+  }
+  .main .paras .signup{
+    margin-left: 47%;
+    margin-top: -35px;
+      
+  }
+  p a{
+    color: rgb(29, 161, 242);
+  }
+  
